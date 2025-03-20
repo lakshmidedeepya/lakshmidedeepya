@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshmidedeepya
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning enhancements in current technoogy java and microservices
+- 🌱 I’m currently pursuing PHD @IIIT Hyderbad -CSE Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on coding related stuff
 - 📫 How to reach me dedeepya9@gmail.com 
 
